@@ -17,7 +17,8 @@ Providing a platform for developers to collaborate and share knowledge with each
 Project Scope:
 The Clarity Shake project focuses on the following areas:
 
-# Clarity Programming Language: The project provides resources and tools for developers to learn and use the Clarity programming language.
+# Clarity Programming Language:
+The project provides resources and tools for developers to learn and use the Clarity programming language.
 
 # Stacks Blockchain: 
 The project provides resources and tools for developers to understand the Stacks blockchain and build decentralized applications on top of it.
