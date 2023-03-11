@@ -6,7 +6,7 @@
 a mix of clarity smart cotracts and tutorials, guides and tools 
 
 ## Introduction:
-Clarity Shake is an open source project designed to provide tutorials, guides, and open source codes to new developers in the Stacks community. The project aims to simplify the learning process for new developers, enabling them to contribute to the Stacks ecosystem and bring new innovations to the community.
+Clarity Shake is an open source project aimed at providing tutorials, guides, and open source codes to help new developers in the stacks community to learn more easily and bring new innovations to the stacks ecosystem.
 
 # Project Goals:
 The primary goal of the Clarity Shake project is to provide new developers in the Stacks community with the tools and resources necessary to learn and contribute to the Stacks ecosystem. The project strives to achieve this goal by:
