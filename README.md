@@ -10,7 +10,7 @@
 Clarity Shake is an open-source initiative designed to empower developers in the Stacks community by offering a comprehensive set of resources, including courses, tutorials, guides, open-source code projects, and challenges. With the primary goal of fostering an environment of continuous learning and innovation, Clarity Shake aims to support both new and experienced developers in the Stacks ecosystem. This whitepaper outlines the objectives, features, and the roadmap for this ambitious project.
 
 
- Table of Contents
+## Table of Contents
 
 
 1. Introduction
@@ -46,19 +46,19 @@ Clarity Shake is an open-source initiative designed to empower developers in the
 6. Conclusion
 
 
-##Introduction
+## Introduction
 
 
-##Background
+## Background
 
 
 The Stacks ecosystem, powered by the Stacks blockchain, is a vibrant and growing community. Developers in this ecosystem continually seek to enhance their skills and create innovative solutions. To address this need, Clarity Shake is conceived as an open-source project dedicated to supporting developers within the Stacks community. It offers a wide range of resources to foster skill development and innovation.
 
 
-##Objectives
+## Objectives
 
 
-##Clarity Shake has Four core objectives:
+## Clarity Shake has Four core objectives:
 
 
 1. Skill Enhancement: Provide comprehensive resources to developers, helping them improve their proficiency in Clarity, the smart contract language for Stacks.
@@ -72,7 +72,7 @@ The Stacks ecosystem, powered by the Stacks blockchain, is a vibrant and growing
 4. Orientation: Serve as a valuable resource for welcoming and guiding enthusiasts and developers, enabling them to establish a career path and enhance their proficiency in the Stacks blockchain.
 
 
-# Key Features
+## Key Features
 
 
  2.1. Courses and Tutorials
@@ -91,7 +91,7 @@ The project hosts a repository of open-source code projects that developers can 
 To encourage innovation, problem-solving and engagements, Clarity Shake periodically introduces a series of development challenges. These challenges are designed to push the boundaries of what can be achieved with Clarity and Stacks and offer rewards and recognition for outstanding contributions.
 
 
-# Community Engagement
+## Community Engagement
 
 
  3.1. Forums and Discussion Boards
