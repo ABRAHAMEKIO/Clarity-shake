@@ -61,33 +61,33 @@ The Stacks ecosystem, powered by the Stacks blockchain, is a vibrant and growing
 ## Clarity Shake has Four core objectives:
 
 
-1. Skill Enhancement: Provide comprehensive resources to developers, helping them improve their proficiency in Clarity, the smart contract language for Stacks.
+* Skill Enhancement: Provide comprehensive resources to developers, helping them improve their proficiency in Clarity, the smart contract language for Stacks.
 
 
-2. Innovation Support: Encourage developers to contribute to the Stacks ecosystem by providing open-source code projects, challenges, and opportunities to collaborate on innovative solutions.
+* Innovation Support: Encourage developers to contribute to the Stacks ecosystem by providing open-source code projects, challenges, and opportunities to collaborate on innovative solutions.
 
 
-3. Community Building: Foster a supportive and engaging community through forums, mentorship programs, and events, promoting knowledge sharing and collaboration.
+* Community Building: Foster a supportive and engaging community through forums, mentorship programs, and events, promoting knowledge sharing and collaboration.
 
-4. Orientation: Serve as a valuable resource for welcoming and guiding enthusiasts and developers, enabling them to establish a career path and enhance their proficiency in the Stacks blockchain.
+* Orientation: Serve as a valuable resource for welcoming and guiding enthusiasts and developers, enabling them to establish a career path and enhance their proficiency in the Stacks blockchain.
 
 
 ## Key Features
 
 
- 2.1. Courses and Tutorials
+* Courses and Tutorials
 Clarity Shake offers a collection of online courses and tutorials, covering various aspects of Clarity development. These resources are designed to cater to developers of all skill levels, from beginners to advanced practitioners. Topics include Clarity basics, smart contract development, and best practices. 
 
 
- 2.2. Guides and Documentation
+ *  Guides and Documentation
 In addition to courses and tutorials, Clarity Shake provides comprehensive guides and documentation to help developers navigate the Stacks ecosystem. This includes information on setting up development environments, deploying smart contracts, and interacting with the Stacks blockchain.
 
 
- 2.3. Open Source Code Projects
+*  Open Source Code Projects
 The project hosts a repository of open-source code projects that developers can contribute to or use as a reference. These projects span a wide range of applications and use cases, providing real-world examples and templates to accelerate development efforts.
 
 
- 2.4. Development Challenges
+*  Development Challenges
 To encourage innovation, problem-solving and engagements, Clarity Shake periodically introduces a series of development challenges. These challenges are designed to push the boundaries of what can be achieved with Clarity and Stacks and offer rewards and recognition for outstanding contributions.
 
 
