@@ -13,7 +13,7 @@ Clarity Shake is an open-source initiative designed to empower developers in the
 ## Table of Contents
 
 
-###1. Introduction
+### 1. Introduction
   ### 1.1. Background
 ###   1.2. Objectives
 
